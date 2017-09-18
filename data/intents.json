@@ -1,0 +1,32 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+         "responses": ["Hello, thanks for visiting", "Good to see you again", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+        {"tag": "soding",
+         "patterns": ["What is Soding?"],
+         "responses": ["Soding is an AI-powered platform for employers to hire great software developers."]
+        },
+        {"tag": "office",
+         "patterns": ["Where are your office?"],
+         "responses": ["SITEC at I-City, Shah Alam"]
+        },
+        {"tag": "apply",
+         "patterns": ["How can I apply a job?"],
+         "responses": ["You can apply to our google form, https://goo.gl/forms/ziDHtYJCYk0dUTHr2. We will send technical assessment afterwards."]
+        },
+        {"tag": "industry",
+         "patterns": ["What sectors or industries do you recruit for?"],
+         "responses": ["Only IT."]
+        }
+   ]
+}
