@@ -1,2 +1,2 @@
-model_checkpoint_path: "/Users/ZERO/Documents/Github/tensorflow-tutorial/data/model.tflearn"
-all_model_checkpoint_paths: "/Users/ZERO/Documents/Github/tensorflow-tutorial/data/model.tflearn"
+model_checkpoint_path: "/Users/zero/Documents/GitHub/tensorflow/data/model.tflearn"
+all_model_checkpoint_paths: "/Users/zero/Documents/GitHub/tensorflow/data/model.tflearn"
