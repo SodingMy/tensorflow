@@ -5,3 +5,6 @@ scipy==1.1.0
 matplotlib==3.0.2
 sklearn==0.20.1
 imageio==2.4.1
+nltk==3.4
+tflearn==0.3.2
+keras==2.2.4
